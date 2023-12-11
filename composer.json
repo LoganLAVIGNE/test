@@ -1,0 +1,17 @@
+{
+    "name": "aperture/test",
+    "description": "Package Test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aperture\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "P-Body"
+        }
+    ],
+    "require": {}
+}
